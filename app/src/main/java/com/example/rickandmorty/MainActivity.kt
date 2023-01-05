@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
-        setupNavigation()
+
     }
 
     private fun setupNavigation() = with(binding) {
